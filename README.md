@@ -33,4 +33,4 @@ We welcome contributions from the community to enhance the SMP MultiSchool Websi
 The TrendyPMJ E-commerce website is developed and maintained by Peace Enwere, Moses Oyedele, and Joseph Oje.
 
 ##contacts
-For questions or inquiries about the TrendyPMJ E-commerce Website, please contact [enwerempeace@gmail.com] and [mosesoyewumi05@gmail.com].
+For questions or inquiries about the TrendyPMJ E-commerce Website, please contact [josephoje247@gmail.com] [enwerempeace@gmail.com] and [mosesoyewumi05@gmail.com].
